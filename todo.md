@@ -13,5 +13,4 @@ Todo
       be in a seperate server. For now, I can probably keep these
       in the same place, and seperate them if I need to.
   * Implement collision handling of data entity IDs
-  * Merge code dealing with the SQL backend into this repository.
-  * Merge hs_microservice into this repository.
+  * Look at the hs_microservice code, and see what needs to be scrapped/modified.
